@@ -167,7 +167,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         <h3>Figure 4: Trends in San Francisco Street Cleaning Requests by Category (2008-2023)</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/SocialDataFinal/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/heatmap.html"
             width="1025"
             height="550"
             >
