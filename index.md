@@ -185,7 +185,7 @@ It's intriguing to note that the viral dissemination of information is not a con
         <h3>Figure 5: A Yearly District-Level Perspective on Street Cleaning Requests</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/SocialDataFinal/assets/images/timeSeriesPlot.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/maps_with_slider.html"
             width="1050"
             height="725"
             >
