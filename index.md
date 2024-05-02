@@ -1,6 +1,5 @@
 ---
 layout: default
-title: The story of BigFoot and how to find him
 ---
 
 <html>
@@ -82,11 +81,8 @@ title: The story of BigFoot and how to find him
 </head>
 
 <body>
-    <div>
-        <img src="{{ site.baseurl }}/assets/images/bigfootwalking.gif" class="back-gif" alt="Messy">
-    </div>
-    <h1 class="page-title">{{ page.title }}</h1>
-    <p style="color:white">The story of BigFoot and how to find him</p>
+    <h1 class="page-title">The story of BigFoot and how to find him</h1>
+    <p style="color:black">The story of BigFoot and how to find him</p>
     <br>
     <br>
     <h2>Introdution</h2>
