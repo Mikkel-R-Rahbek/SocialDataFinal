@@ -110,6 +110,15 @@ title: The story of BigFoot and how to find him
             >
     </div>
     <h2>The history of Bigfoot</h2>
+        <div>
+        <h3>Figure 2: The amount of Bigfoot reports each year </h3>
+        <embed 
+            type="text/html" 
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/BarChart.html"
+            width="1025"
+            height="600"
+            >
+    </div>
     <p>
 Analyzing the frequency of reports per year reveals a noteworthy pattern, commencing around 1950 and marked by several significant peaks, notably in 1978 and during the period of 2003-2005. Preceding these peaks is often a notable bigfoot sighting that captures widespread attention in the media. This is reminiscent of the origins of the bigfoot legend, as elucidated by a New York Times article Nytimes. The piece details the revelation that the initial footprints were part of a prank that spiraled out of control, spawning a narrative unintended by its perpetrators.
         <br>
@@ -122,16 +131,16 @@ This observation doesn't definitively affirm or debunk the existence of bigfoot;
         <br>
 It's intriguing to note that the viral dissemination of information is not a contemporary occurrence; rather, it has historically fueled further media attention and subsequent public fascination with the subject.
     </p>
-    <div>
-        <h3>Figure 2: The amount of Bigfoot reports each year </h3>
+        <h2>How to find Bigfoot</h2>
+            <div class="img">
+        <h3>Figure 3:Counties</h3>
         <embed 
             type="text/html" 
-            src="{{ site.baseurl }}/SocialDataFinal/assets/images/BarChart.html"
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/County.html"
             width="1025"
-            height="600"
+            height="550"
             >
     </div>
-        <h2>How to find Bigfoot</h2>
     <p>
 The plot on figure 3 is a Cloropleth map of the USA with each county geo separated. From this we can locate areas of high bigfoot sightings. Interestingly we can see that the areas of the three famous bigfoot sightings previously discussed all have high report counts in their respective counties. We see that counties with the bigfoot footprints from 1958 have a high volume of bigfoot sightings 31, with neighbouring countries having similar highs. The counties in question are close to the Rockies and have high amounts of mountainous and forested area.  This tells a very similar story to the other viral bigfoot sightings discussed. High bigfoot sighting density in respective and neighbouring counties.  The washington area (top left) also features a large number of sightings likely due INSERT SNIPPET OF WASHINGTON to its dense forests and rugged terrain, which provide ample hiding places for a creature like Bigfoot. Additionally, the Pacific Northwest has a long history of Bigfoot sightings and cultural stories surrounding the creature, further contributing to the high number of reports in that region.
         <br>
@@ -145,15 +154,6 @@ Furthermore, the overlap between high sighting areas and regions known for outdo
         However there is also a high density in counties of florida especially in the everglades which 
 is a large wetland. This goes against the pattern observed in other areas of the US.  INSERT SNIPPET OF EVERGLADES AREA 
     </p>
-    <div class="img">
-        <h3>Figure 3:Counties</h3>
-        <embed 
-            type="text/html" 
-            src="{{ site.baseurl }}/SocialDataFinal/assets/images/County.html"
-            width="1025"
-            height="550"
-            >
-    </div>
     <p>
     </p>
     <div>
@@ -194,29 +194,5 @@ is a large wetland. This goes against the pattern observed in other areas of the
         </li>
         <li>
             <a href="https://www.youtube.com/watch?v=VEOkX9dp85I&ab_channel=NBCBayArea" target="_blank">NBC Bay Area: Behind the Story: Walking San Francisco's Dirty Streets</a>
-        </li>
-        <li>
-            <a href="https://sfstandard.com/research-data/san-francisco-bay-area-california-population-decline-census-pandemic-covid/" target="_blank">The SF Standard: It’s Official: A Quarter Million People Fled the Bay Area Since Covid</a>
-        </li>
-        <li>
-            <a href="https://www.statista.com/statistics/201182/forecast-of-smartphone-users-in-the-us/" target="_blank">US Smartphone Users 2009-2040</a>
-        </li>
-        <li>
-            <a href="https://www.sfchronicle.com/bayarea/article/SF-to-get-team-dedicated-to-clearing-used-needles-12858548.php" target="_blank">SF Chronicle: SF to get team dedicated to clearing used needles from city’s streets</a>
-        </li>
-        <li>
-            <a href="https://www.sfaf.org/collections/status/getting-syringes-off-san-francisco-streets/" target="_blank">SF Aids Foundation: Getting syringes off San Francisco streets</a>
-        </li>
-        <li>
-            <a href="https://www.cbsnews.com/sanfrancisco/news/surging-crime-dirty-streets-local-residents-say-san-franciscos-mission-district-is-in-crisis/" target="_blank">CBS News: Surging crime, dirty streets; Local residents say San Francisco's Mission District is in crisis</a>
-        </li>
-        <li>
-            <a href="https://www.sfchronicle.com/bayarea/article/sf-mission-tents-17037918.php" target="_blank">SF Chronicle: ‘A neighborhood in chaos’: Is the Mission following in the Tenderloin’s footsteps?</a>
-        </li>
-        <li>
-            <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry" target="_blank">San Francisco Police Department Crime Incident Report from 2003-2018</a>
-        </li>
-        <li>
-            <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783" target="_blank">San Francisco Police Department Crime Incident Report from 2018 to present</a>
         </li>
     </ol>
