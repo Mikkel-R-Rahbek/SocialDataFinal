@@ -128,7 +128,7 @@ It's intriguing to note that the viral dissemination of information is not a con
     </p>
         <h2>How to find Bigfoot</h2>
             <div class="img">
-        <h3>Figure 3:Counties</h3>
+        <h3>Figure 3:A plot of all counties in the US and their reported Bigfoot sightings</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/County.html"
@@ -137,7 +137,16 @@ It's intriguing to note that the viral dissemination of information is not a con
             >
     </div>
     <p>
-The plot on figure 3 is a Cloropleth map of the USA with each county geo separated. From this we can locate areas of high bigfoot sightings. Interestingly we can see that the areas of the three famous bigfoot sightings previously discussed all have high report counts in their respective counties. We see that counties with the bigfoot footprints from 1958 have a high volume of bigfoot sightings of 31, with neighbouring countries having similar highs. The counties in question are close to the Rockies and have high amounts of mountainous and forested area.  This tells a very similar story to the other viral bigfoot sightings discussed. High bigfoot sighting density in respective and neighbouring counties.  The washington area (top left) also features a large number of sightings likely due INSERT SNIPPET OF WASHINGTON to its dense forests and rugged terrain, which provide ample hiding places for a creature like Bigfoot. Additionally, the Pacific Northwest has a long history of Bigfoot sightings and cultural stories surrounding the creature, further contributing to the high number of reports in that region.
+The plot on figure 3 is a Cloropleth map of the USA with each county geo separated. From this we can locate areas of high bigfoot sightings. Interestingly we can see that the areas of the three famous bigfoot sightings previously discussed all have high report counts in their respective counties. We see that counties with the bigfoot footprints from 1958 have a high volume of bigfoot sightings of 31, with neighbouring countries having similar highs. The counties in question are close to the Rockies and have high amounts of mountainous and forested area.  This tells a very similar story to the other viral bigfoot sightings discussed. High bigfoot sighting density in respective and neighbouring counties. The washington area (top left) also features a large number of sightings likely due to its dense forests and rugged terrain, which provide ample hiding places for a creature like Bigfoot. Additionally, the Pacific Northwest has a long history of Bigfoot sightings and cultural stories surrounding the creature, further contributing to the high number of reports in that region. A zoomed in view of a heatmap for all reported sighitngs in that area can be seen on figure 4
+ <div>
+        <h3>Figure 4: A zoomed in view of the washington area from a heatmap</h3>
+        <embed 
+            type="text/html" 
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/washington.png"
+            width="1025"
+            height="550"
+            >
+    </div>
         <br>
         <br>
 Moving towards the Appalachian Mountains, we observe another cluster of counties with notable Bigfoot sightings. The dense forests and remote areas of the Appalachians offer similar habitat characteristics to those found in the Rockies, making them ideal locations for Bigfoot sightings.
@@ -147,12 +156,21 @@ Furthermore, the overlap between high sighting areas and regions known for outdo
         <br>
         <br>
         However there is also a high density in counties of florida especially in the everglades which 
-is a large wetland. This goes against the pattern observed in other areas of the US.  INSERT SNIPPET OF EVERGLADES AREA 
+is a large wetland. This goes against the pattern observed in other areas of the US. On figure 5 a snippet of a heatmap of the everglades is shown on figure 5. 
+ <div>
+        <h3>Figure 5: A zoomed in view of the washington area from a heatmap</h3>
+        <embed 
+            type="text/html" 
+            src="{{ site.baseurl }}/SocialDataFinal/assets/images/florida.png"
+            width="1025"
+            height="550"
+            >
+    </div>
     </p>
     <p>
     </p>
     <div>
-        <h3>Figure 4: A heatmap showing all Bigfoot sightings for a given year</h3>
+        <h3>Figure 6: A heatmap showing all Bigfoot sightings for a given year</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/heatmap.html"
@@ -161,7 +179,7 @@ is a large wetland. This goes against the pattern observed in other areas of the
             >
     </div>
     <p>
-        more stuff
+       On figure 6 a full heatmap is shown for each year of the reported Bigfoot sightings in the dataset. It includes  
     </p>
     <audio controls>
     <source src="{{ site.baseurl }}/SocialDataFinal/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
