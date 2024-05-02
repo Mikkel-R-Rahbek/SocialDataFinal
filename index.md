@@ -13,7 +13,7 @@ layout: default
     </style>
 	<style>
         .page-title {
-            color: white;
+            color: black;
             font-size: 32px;
         }
         h3 {
@@ -81,7 +81,7 @@ layout: default
 </head>
 
 <body>
-    <h1 class="page-title",style="color:black">The story of BigFoot and how to find him</h1>
+    <h1 class="page-title">The story of BigFoot and how to find him</h1>
     <br>
     <br>
     <h2>Introdution</h2>
