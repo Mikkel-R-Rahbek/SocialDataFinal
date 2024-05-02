@@ -120,7 +120,7 @@ title: The story of BigFoot and how to find him
             >
     </div>
     <p>
-Analyzing the frequency of reports per year reveals a noteworthy pattern, commencing around 1950 and marked by several significant peaks, notably in 1978 and during the period of 2003-2005. Preceding these peaks is often a notable bigfoot sighting that captures widespread attention in the media. This is reminiscent of the origins of the bigfoot legend, as elucidated by a New York Times article Nytimes. The piece details the revelation that the initial footprints were part of a prank that spiraled out of control, spawning a narrative unintended by its perpetrators.
+Analyzing the frequency of reports per year reveals a noteworthy pattern, commencing around 1950 and marked by several significant peaks, notably in 1978 and during the period of 2003-2005. Preceding these peaks is often a notable bigfoot sighting that captures widespread attention in the media. This is reminiscent of the origins of the bigfoot legend, as elucidated by a New York Times article <a href="https://www.nytimes.com/2003/01/03/us/search-for-bigfoot-outlives-the-man-who-created-him.html" target="_blank">Nytimes </a>[1]. The piece details the revelation that the initial footprints were part of a prank that spiraled out of control, spawning a narrative unintended by its perpetrators.
         <br>
             <br>
 The surge in 1978 corresponds to numerous alleged sightings reported by Bob Stamps, who subsequently gained prominence as a purported bigfoot expert, appearing in various articles and radio broadcasts1 2. The most recent spike, however, stemmed from a deliberate hoax, involving two individuals attempting to sell a purported bigfoot corpse for $25,000, which was later exposed as a costume stored in a freezer, perpetuated by Dyers and Whitton. Dyers Dou.  
@@ -187,12 +187,12 @@ is a large wetland. This goes against the pattern observed in other areas of the
             <a href="https://books.google.dk/books?id=7KgyAAAAIBAJ&pg=PA43&dq=Bigfoot&article_id=2608,3085237&hl=en&sa=X&ved=2ahUKEwjJrPr2seKFAxVdAxAIHUONCeM4FBDoAXoECAkQAg#v=onepage&q=Bigfoot&f=false" target="_blank"> Duo: We Found (the real) Bigfoot </a>
         </li>
         <li>
-            <a href="https://londonformayor.com/policies/clean-streets-clean-city-2/" target="_blank"> Mayor Breed: Clean Streets, Clean City </a>
+            <a href="https://books.google.dk/books?id=sWsfAAAAIBAJ&pg=PA5&dq=bigfoot&article_id=1255,6281184&hl=en&sa=X&ved=2ahUKEwiaju7WmOWFAxUgLBAIHZfkBtEQ6AF6BAgJEAI#v=onepage&q=bigfoot&f=false" target="_blank"> Search continues for Bigfoot </a>
         </li>
         <li>
-            <a href="https://sf311.org/" target="_blank"> SF 311 </a>
+            <a href="https://books.google.dk/books?id=_5gfAAAAIBAJ&pg=PA2&dq=bigfoot&article_id=1507,3144857&hl=en&sa=X&ved=2ahUKEwiaju7WmOWFAxUgLBAIHZfkBtEQ6AF6BAgFEAI#v=onepage&q=bigfoot&f=false" target="_blank"> Man, 27, Seeks Bigfoot </a>
         </li>
         <li>
-            <a href="https://www.youtube.com/watch?v=VEOkX9dp85I&ab_channel=NBCBayArea" target="_blank">NBC Bay Area: Behind the Story: Walking San Francisco's Dirty Streets</a>
+            <a href="https://books.google.dk/books?id=_5gfAAAAIBAJ&pg=PA2&dq=bigfoot&article_id=1507,3144857&hl=en&sa=X&ved=2ahUKEwiaju7WmOWFAxUgLBAIHZfkBtEQ6AF6BAgFEAI#v=onepage&q=bigfoot&f=false" target="_blank">Man,27, Seeks Bigfoot</a>
         </li>
     </ol>
