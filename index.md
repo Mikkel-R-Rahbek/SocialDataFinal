@@ -144,7 +144,7 @@ The plot on figure 3 is a Cloropleth map of the USA with each county geo separat
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/washington.png"
             width="1025"
-            height="460"
+            height="480"
             >
     </div>
         <br>
@@ -162,7 +162,7 @@ is a large wetland. This goes against the pattern observed in other areas of the
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/florida.png"
-            width="1300"
+            width="1400"
             height="550"
             >
     </div>
@@ -179,8 +179,9 @@ is a large wetland. This goes against the pattern observed in other areas of the
             >
     </div>
     <p>
-       On figure 6 a full heatmap is shown for each year of the reported Bigfoot sightings in the dataset. It includes  
+       On figure 6 a full heatmap is shown for each year of the reported Bigfoot sightings in the dataset. It includes 
     </p>
+    <h3>Figure 7: An audio clip of a Bigfoot howl</h3>
     <audio controls>
     <source src="{{ site.baseurl }}/SocialDataFinal/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
