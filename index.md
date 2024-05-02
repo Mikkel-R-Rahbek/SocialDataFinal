@@ -137,14 +137,14 @@ It's intriguing to note that the viral dissemination of information is not a con
             >
     </div>
     <p>
-The plot on figure 3 is a Cloropleth map of the USA with each county geo separated. From this we can locate areas of high bigfoot sightings. Interestingly we can see that the areas of the three famous bigfoot sightings previously discussed all have high report counts in their respective counties. We see that counties with the bigfoot footprints from 1958 have a high volume of bigfoot sightings of 31, with neighbouring countries having similar highs. The counties in question are close to the Rockies and have high amounts of mountainous and forested area.  This tells a very similar story to the other viral bigfoot sightings discussed. High bigfoot sighting density in respective and neighbouring counties. The washington area (top left) also features a large number of sightings likely due to its dense forests and rugged terrain, which provide ample hiding places for a creature like Bigfoot. Additionally, the Pacific Northwest has a long history of Bigfoot sightings and cultural stories surrounding the creature, further contributing to the high number of reports in that region. A zoomed in view of a heatmap for all reported sighitngs in that area can be seen on figure 4
+The plot on figure 3 is a Cloropleth map of the USA with each county geo separated. From this we can locate areas of high bigfoot sightings. Interestingly we can see that the areas of the three famous bigfoot sightings previously discussed all have high report counts in their respective counties. We see that counties with the bigfoot footprints from 1958 have a high volume of bigfoot sightings of 31, with neighbouring countries having similar highs. The counties in question are close to the Rockies and have high amounts of mountainous and forested area.  This tells a very similar story to the other viral bigfoot sightings discussed. High bigfoot sighting density in respective and neighbouring counties. The washington area (top left) also features a large number of sightings likely due to its dense forests and rugged terrain, which provide ample hiding places for a creature like Bigfoot. Additionally, the Pacific Northwest has a long history of Bigfoot sightings and cultural stories surrounding the creature, further contributing to the high number of reports in that region. A zoomed in view of a heatmap for all reported sighitngs in that area can be seen on figure 4.
  <div>
         <h3>Figure 4: A zoomed in view of the washington area from a heatmap</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/washington.png"
             width="1025"
-            height="450"
+            height="460"
             >
     </div>
         <br>
@@ -162,7 +162,7 @@ is a large wetland. This goes against the pattern observed in other areas of the
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/florida.png"
-            width="1200"
+            width="1300"
             height="550"
             >
     </div>
