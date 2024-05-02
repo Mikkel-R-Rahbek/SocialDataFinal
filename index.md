@@ -101,7 +101,7 @@ layout: default
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/bigfootwordclout.png"
             width="1025"
-            height="800"
+            height="810"
             >
     </div>
     <h2>The history of Bigfoot</h2>
