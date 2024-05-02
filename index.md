@@ -101,7 +101,7 @@ layout: default
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/bigfootwordclout.png"
             width="1025"
-            height="810"
+            height="820"
             >
     </div>
     <h2>The history of Bigfoot</h2>
@@ -144,7 +144,7 @@ The plot on figure 3 is a Cloropleth map of the USA with each county geo separat
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/washington.png"
             width="1025"
-            height="550"
+            height="450"
             >
     </div>
         <br>
@@ -162,7 +162,7 @@ is a large wetland. This goes against the pattern observed in other areas of the
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/florida.png"
-            width="1025"
+            width="1200"
             height="550"
             >
     </div>
