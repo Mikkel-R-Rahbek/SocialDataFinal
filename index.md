@@ -94,6 +94,9 @@ layout: default
     <h2>Our Dataset</h2>
     <p>
         These reports have been collected by the Bigfoot Research Organisation (BFRO), and later been compiled by users on Kaggle with added weather data based on location and temporal data. The dataset is relatively small with 5082 reports spanning from 1950 to 2023, it contains a detailed description of the encounters as well as geographical data. The reports are from all over the place and this article wishes to examine what patterns can be observed in bigfoot reportings. The data can be found through <a href="https://data.world/timothyrenner/bfro-sightings-data" target="_blank">here</a>[7], and is pulled from <a href="https://bfro.net/" target="_blank">www.bfro.net</a>[8]
+                <br>
+            <br>
+        The explainer notebook can be found <a href="https://nbviewer.org/github/Mikkel-R-Rahbek/SocialDataFinal/blob/main/assets/images/explainernotebook.ipynb" target="_blank">here</a>
     </p>
         <div>
         <h3>Figure 1: Wordcloud made from Bigfoot report descriptions (2008-2023)</h3>
