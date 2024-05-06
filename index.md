@@ -179,15 +179,23 @@ is a large wetland. This goes against the pattern observed in other areas of the
             >
     </div>
     <p>
-       On figure 6 a full heatmap is shown for each year of the reported Bigfoot sightings in the dataset. It includes 
+       On figure 6 a full heatmap is shown for each year of the reported Bigfoot sightings in the dataset. It includes the articles that have contributed to a sharp increase in interest around the story of Bigfoot. It can be seen throughout the years how the heatmap evolves around these articles. 
+        <br>
+        <br>
+        In 1994, a mysterious howl echoed through the forests of Ohio, sparking speculation about the existence of Bigfoot. Commentators describe the howl as a dog/man-like creature, or share their eerily similar encounters, noting getting chills. Despite investigations, its origin remains a mystery, adding to the allure of the legendary creature. The area has since been a hotspot for bigfoot sightings. This howl can be heard on figure 7
     </p>
-    <h3>Figure 7: An audio clip of a Bigfoot howl</h3>
+    <h3>Figure 7: An audio clip of a Bigfoot howl <a href="https://books.google.dk/books?id=7KgyAAAAIBAJ&pg=PA43&dq=Bigfoot&article_id=2608,3085237&hl=en&sa=X&ved=2ahUKEwjJrPr2seKFAxVdAxAIHUONCeM4FBDoAXoECAkQAg#v=onepage&q=Bigfoot&f=false" target="_blank">[6]</a></h3>
     <audio controls>
     <source src="{{ site.baseurl }}/SocialDataFinal/assets/images/Bigfoot_sound.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
     <h2>Concluding Thoughts on Bigfoot</h2>
     <p>
+In conclusion, the legend of Bigfoot continues to captivate and intrigue people across the United States, with reports spanning decades and regions. While the existence of Bigfoot remains unproven, patterns in sightings reveal interesting insights into human behaviour, media influence, and habitat preferences.
+        <br>
+        <br>
+The analysis of historical data shows that peaks in Bigfoot sightings often coincide with significant media coverage or sensational events, such as hoaxes or deliberate attempts to perpetuate the myth. This suggests a correlation between public interest and the proliferation of reported sightings. 
+In essence, while the truth behind Bigfoot remains elusive, the ongoing fascination with the creature reflects humanity's enduring curiosity and desire to explore the unknown corners of our world. Whether Bigfoot exists as a tangible creature or persists solely as a product of folklore and imagination, its legend continues to thrive in the collective consciousness of society.
     </p>
     <a id="references" style="color:inherit; text-decoration: none !important;"><h2>References</h2></a>
     <ol type="1">
@@ -207,6 +215,6 @@ is a large wetland. This goes against the pattern observed in other areas of the
             <a href="https://books.google.dk/books?id=_5gfAAAAIBAJ&pg=PA2&dq=bigfoot&article_id=1507,3144857&hl=en&sa=X&ved=2ahUKEwiaju7WmOWFAxUgLBAIHZfkBtEQ6AF6BAgFEAI#v=onepage&q=bigfoot&f=false" target="_blank"> Man, 27, Seeks Bigfoot </a>
         </li>
         <li>
-            <a href="https://books.google.dk/books?id=_5gfAAAAIBAJ&pg=PA2&dq=bigfoot&article_id=1507,3144857&hl=en&sa=X&ved=2ahUKEwiaju7WmOWFAxUgLBAIHZfkBtEQ6AF6BAgFEAI#v=onepage&q=bigfoot&f=false" target="_blank">Man,27, Seeks Bigfoot</a>
+            <a href="https://www.youtube.com/watch?v=l5UQ0uCj2XM" target="_blank">Bigfoot howl</a>
         </li>
     </ol>
