@@ -5,7 +5,7 @@ layout: default
 <html>
 <head> 
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="_site/assets/main.css">
+    <link rel="stylesheet" type="text/css" href="assets/main.scss">
     <style>
         body {
             font-family: Garamond, serif; /* Change the font family here */
