@@ -4,8 +4,6 @@ layout: default
 
 <html>
 <head>  
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: Garamond, serif; /* Change the font family here */
