@@ -93,7 +93,7 @@ layout: default
         </p>
     <h2>Our Dataset</h2>
     <p>
-        These reports have been collected by the Bigfoot Research Organisation (BFRO), and later been compiled by users on Kaggle with added weather data based on location and temporal data. The dataset is relatively small with 5082 reports spanning from 1950 to 2023, it contains a detailed description of the encounters as well as geographical data. The reports are from all over the place and this article wishes to examine what patterns can be observed in bigfoot reportings.
+        These reports have been collected by the Bigfoot Research Organisation (BFRO), and later been compiled by users on Kaggle with added weather data based on location and temporal data. The dataset is relatively small with 5082 reports spanning from 1950 to 2023, it contains a detailed description of the encounters as well as geographical data. The reports are from all over the place and this article wishes to examine what patterns can be observed in bigfoot reportings. The data can be found through <a href="https://data.world/timothyrenner/bfro-sightings-data" target="_blank">here</a>[7], and is pulled from <a href="https://bfro.net/" target="_blank">www.bfro.net</a>[8]
     </p>
         <div>
         <h3>Figure 1: Wordcloud made from Bigfoot report descriptions (2008-2023)</h3>
@@ -216,5 +216,11 @@ In essence, while the truth behind Bigfoot remains elusive, the ongoing fascinat
         </li>
         <li>
             <a href="https://www.youtube.com/watch?v=l5UQ0uCj2XM" target="_blank">Bigfoot howl</a>
+        </li>
+            <li>
+            <a href="https://bfro.net/" target="_blank">Bigfoot Field Researchers Organization</a>
+        </li>
+            <li>
+            <a href="https://data.world/timothyrenner/bfro-sightings-data" target="_blank">The dataset collected by Timothy Renner</a>
         </li>
     </ol>
