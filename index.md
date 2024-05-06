@@ -158,7 +158,7 @@ Furthermore, the overlap between high sighting areas and regions known for outdo
         However there is also a high density in counties of florida especially in the everglades which 
 is a large wetland. This goes against the pattern observed in other areas of the US. On figure 5 a snippet of a heatmap of the everglades is shown on figure 5. 
  <div>
-        <h3>Figure 5: A zoomed in view of the washington area from a heatmap</h3>
+        <h3>Figure 5: A zoomed in view of the florida area from a heatmap</h3>
         <embed 
             type="text/html" 
             src="{{ site.baseurl }}/SocialDataFinal/assets/images/florida.png"
